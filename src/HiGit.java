@@ -5,4 +5,8 @@ public class HiGit {
     public void dev( ){
         System.out.println("dev ");
     }
+
+    public void devv( ){
+        System.out.println("dev ");
+    }
 }
