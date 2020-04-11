@@ -6,6 +6,10 @@ public class HiGit {
         System.out.println("dev ");
     }
 
+    public void devv( ){
+        System.out.println("dev ");
+    }
+
     public void mergeinto( ){
         System.out.println("merge ");
     }
