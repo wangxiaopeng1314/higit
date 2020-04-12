@@ -16,4 +16,12 @@ public class HiGit {
     public void mergeinto( ){
         System.out.println("merge ");
     }
+
+    public void testtest( ){
+        System.out.println("testtest ");
+    }
+    public void test( ){
+        System.out.println("test ");
+
+    }
 }
