@@ -12,4 +12,8 @@ public class HiGit {
     public  void bdzfz(String args[]){
         System.out.println("maven下本地主分支修改");
     }
+
+    public void mergeinto( ){
+        System.out.println("merge ");
+    }
 }
